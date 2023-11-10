@@ -5,3 +5,4 @@ I have complete my BSC in 2000
 I have complete my Msc in 2030
 I have started my stack web development jov in 2021.
 I will join at cumilla polytechnic
+logo alignment is centered.
